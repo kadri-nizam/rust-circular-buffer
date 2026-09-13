@@ -1,3 +1,5 @@
+#![feature(maybe_uninit_slice)]
+#![feature(maybe_uninit_write_slice)]
 // Copyright © 2023-2026 Andrea Corbellini and contributors
 // SPDX-License-Identifier: BSD-3-Clause
 
